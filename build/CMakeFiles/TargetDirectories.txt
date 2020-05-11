@@ -1,0 +1,3 @@
+/home/sayantan/Graphics/Projects/assignment1/graphics-boilerplate/build/CMakeFiles/rebuild_cache.dir
+/home/sayantan/Graphics/Projects/assignment1/graphics-boilerplate/build/CMakeFiles/edit_cache.dir
+/home/sayantan/Graphics/Projects/assignment1/graphics-boilerplate/build/CMakeFiles/graphics_asgn1.dir
